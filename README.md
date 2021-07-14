@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Andrey Cunha!
 
 ###### 📍 Currently I work as Data Engineer @ Igarape.
-###### 📊Data science enthusiast
+###### 📊 Data science enthusiast
 
 ### Languages and Tools:
 
