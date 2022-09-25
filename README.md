@@ -10,7 +10,7 @@
 - 🌐 HTML5 | CSS3 | Vue.js
 - :octocat: Git | Github
 - 🐳 Docker
-- ☁️ AWS | GCloud
+- ☁️ AWS | GCP
 - 🛢️ Redis | PostgreSQL | Elasticsearch | MySQL
 
 
